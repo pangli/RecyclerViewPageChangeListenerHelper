@@ -1,2 +1,2 @@
 # RecyclerViewPageChangeListenerHelper
-RecyclerView
+RecyclerView实现类似ViewPager的PageChangeListener监听
